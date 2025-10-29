@@ -15,7 +15,7 @@ A responsive portfolio website showcasing HTML-based applications with a clean, 
 
 portfolio-website/                                                                                                                                                     
 ├── index.html                                                                                                                                                     
-├── pages/
+├── pages/                                                                                                                                                                  
 │   ├── home.html                                                                                                                                                       
 │   ├── project1.html                                                                                                                                                       
 │   ├── project2.html                                                                                                                                                       
